@@ -1,6 +1,10 @@
 # Space monkeys
 
-This project is a working prototype of a 2d arcade game:
+This project is a working prototype of a 2d arcade game.
+
+<p align="center">
+    <img src="Notes/screenshot.png" alt="Example level" width=100%>
+</p>
 
 There is a space ship with a load of bananas, a black hole and a space station full of hungry monkeys orbiting it.
 Your task is to launch the space ship with an initial velocity such that it will arrive at the space station,
