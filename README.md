@@ -1,6 +1,6 @@
 # Space monkeys
 
-This project is a working prototype of a 2d arcade game.
+This project is a prototype of a 2d arcade game.
 
 <p align="center">
     <img src="Notes/screenshot.png" alt="Example level" width=100%>
@@ -20,8 +20,8 @@ Simply click on the one you would like to play. There are two types of featured 
   * Schwarzschild (non rotating, invisible, just black)
   * Kerr (rotating, with colorful accretion disk)
 
-The HUD shows your ships speed as a fraction of lightspeed $c$ and your ships current time dilation as factor next to it.
-A dilation of 1 means your time goes as fast as the one of the distant observer (the player), factor 2 means twice as fast etc.
+The HUD shows your ships speed as a fraction of lightspeed $c$ and your ships current time dilation as factor.
+A dilation of 1 means the ship's time goes as fast as the one of the distant observer (the player), factor 2 means twice as fast etc.
 On the right there is a green bar showing the highest time dilation you've had during this flight (which is the one that counts).
 
 ### Project state
