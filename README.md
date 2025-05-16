@@ -17,7 +17,7 @@ Simply click on the one you would like to play. There are two types of featured 
 
 ### Project state
 
-This was a passion project during my study of general relativity some 2 years ago. It is in a proof of concept state,
+This was a passion project during my study of general relativity in 2021. It is in a proof of concept state,
 and if it were to be seriously developed some major overhauls might be in order. For the time being there are no
 concrete plans to continue working on it.
 
