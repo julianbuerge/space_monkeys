@@ -1,0 +1,10 @@
+- ERROR: Sometimes the level does not load (pressing R fixes it). This and the next point hint a the need for a better loading system.
+
+- star_system is very inefficent at the moment. I can only load a few. Perhaps more generalization for loading textures or a change of the sort would help.
+  It is a combination of a reduced particle class along with button functionality.
+
+- make the collision more accurate (at the moment it is very rudimentary and stuff collides way to easily)
+
+- make the game design and adapt the very rough star_system class accordingly. Think of ships, best scores, story and so on.
+
+- add panning to the star cluster map.

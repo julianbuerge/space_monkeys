@@ -1,0 +1,21 @@
+A = -20
+B = 20
+C = -11
+
+M = 0.7
+a = 0.2
+
+
+Ship_BananaExpress    x = 0  y = 8   vx = 0  vy = -0.5
+
+
+BlackHole_Kerr
+
+
+3
+
+Station_Gorilla_1   x = 10   y = -5   vx = -0.1   vy = 0.3
+
+Station_Generic_1   x = -4   y = 5  vx = 0.3  vy = 0.2
+
+Station_Generic_1   x = -10   y = 0  vx = 0  vy = -0.2

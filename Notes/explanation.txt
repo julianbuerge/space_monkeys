@@ -1,0 +1,54 @@
+The program has three main states: On the title page, in the level menu, and in level.
+
+
+On the title page you can simply press play or exit. All variables should be in default state.
+
+In the level menu you mainly choose what the active_level_number variable should be (by clicking a button).
+Every other variable should be in default state.
+
+At the beginning of in level it makes active_level to be according to the chosen active_level_number.
+Then you can play the game. Here the variables evolve and the simulation runs.
+If you go back to the level menu it should reset all variables to default state, except active_level_number.
+
+
+
+
+Main Program structure:
+
+
+Global variables and auxiliary functions
+
+int main {
+
+  Rendering stuff
+
+  Declaration of all gui variables.
+
+  Declaration of admin variables, those are for handling active level and menus.
+
+  Declaration of all game play variables.
+
+
+  while (True) {
+
+      Polling events: detect keyboard and mouse events.
+                      In each case check if we are currently on the title page,
+                      in the level menu or in the level and choose an action
+                      accordingly. the interaction behavior is completely determined here.
+
+      Game play:      define the behavior if we are in level menu. this simulates the star cluster map.
+
+                      define the behavior if we are in level. here the action happens.
+
+      Drawing         game view:      Draw all the simulated things of level menu or level.
+
+                      gui view:       In any case draw gui elements.
+
+                      here non of the action happens, everything has been calculated previously
+                      and is now simply rendered.
+
+  }
+
+  return 0;
+
+}

@@ -1,0 +1,19 @@
+A = -15
+B = 15
+C = -7.5
+
+M = 0.5
+a = 0
+
+
+Ship_BananaExpress    x = -9  y = 0   vx = 0  vy = 0.25
+
+
+BlackHole_Schwarzschild
+
+
+1
+
+Station_Gorilla_1   x = 5   y = 0   vx = 0   vy = 0.3
+
+

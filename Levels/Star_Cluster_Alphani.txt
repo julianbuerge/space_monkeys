@@ -1,0 +1,36 @@
+Alphani cluster central black hole and frame
+
+A = -100
+B = 100
+C = -50
+
+M = 1
+a = 0.5
+
+BlackHole_Central
+
+
+A list of all the levels in the Alphani cluster with ID (only four are implemented)
+
+Amount: 4
+
+1	Lasenby		x = -80, y = 0,		modulus = 0.1, angle = 90	Default_Star
+2	Carter		x = -50, y = 40,	modulus = 0.1, angle = -90	Default_Star
+3	Geroch		x = -30, y = 30,	modulus = 0.1, angle = -90	Default_Star
+4	Luk		x = 60, y = 27,		modulus = 0.1, angle = 90	Default_Star
+5	Hawking		x = 22, y = -22,	modulus = 0.1, angle = -90	Default_Star
+6	Ellis		x = 100, y = 0,		modulus = 0.1, angle = 90	Default_Star
+7	Penrose		x = 50, y = 0,		modulus = 0.1, angle = 90	Default_Star
+8	Einstein	x = 0, y = 80,		modulus = 0.1, angle = 0	Default_Star
+9	Choquet-Bruhat	x = 24, y = - 33,	modulus = 0.1, angle = 180	Default_Star
+10	Rodnianski	x = 80, y = 75,		modulus = 0.1, angle = 90	Default_Star
+11	Kehle		x = 10, y = -50,	modulus = 0.1, angle = 180	Default_Star
+12	Hintz		x = -14, y = 73,	modulus = 0.1, angle = 0	Default_Star
+13	Efstathiou	x = 68, y = 19,		modulus = 0.1, angle = 90	Default_Star
+14	Dafermos	x = 34, y = 48,		modulus = 0.1, angle = 180	Default_Star
+15	Hobson		x = -90, y = -90,	modulus = 0.1, angle = 0	Default_Star
+16	Christodoulou	x = -20, y = -70,	modulus = 0.1, angle = 20	Default_Star
+17	Kruskal		x = 20, y = -28,	modulus = 0.1, angle = -30	Default_Star
+18	Weyl		x = -60, y = -60,	modulus = 0.1, angle = 120	Default_Star
+19	Riemann		x = 100, y = 0,		modulus = 0.1, angle = 90	Default_Star
+20	Lorentz		x = 5, y = 100,		modulus = 0.1, angle = -20	Default_Star

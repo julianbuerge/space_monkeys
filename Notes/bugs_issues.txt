@@ -1,0 +1,8 @@
+Bugs and issues
+
+- Resets the initial velocity sometimes. I fixed it, but I am not sure that it actually never happens anymore.
+
+- does not simulate sometimes, but after pressing R it does. Also sometimes just waiting is enough. And also sometimes simulates but very stuttery.
+
+- if you resize the window after creating it the buttons in the game menu don't work anymore
+  (something may be amiss (resolution depended) with how mouse click coordinates are checked)
