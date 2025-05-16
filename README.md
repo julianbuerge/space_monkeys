@@ -12,12 +12,17 @@ and thereby deliver the bananas. But beware! There are other objects with which 
 crucially, during the flight we measure your time dilation, and the higher it gets the greater your reward!
 
 The physics are fully general relativistic, integrated to fifth order, and so your ship's time will
-dilate the faster it goes and the closer to the black hole it gets.
+dilate the faster it goes and the closer to the black hole it gets. The simulation runs in the time
+of a distant observer (the player).
 
 When you start the game and click play you will load into a cluster of several black holes.
 Simply click on the one you would like to play. There are two types of featured black holes
   * Schwarzschild (non rotating, invisible, just black)
   * Kerr (rotating, with colorful accretion disk)
+
+The HUD shows your ships speed as a fraction of lightspeed $c$ and your ships current time dilation as factor next to it.
+A dilation of 1 means your time goes as fast as the one of the distant observer (the player), factor 2 means twice as fast etc.
+On the right there is a green bar showing the highest time dilation you've had during this flight (which is the one that counts).
 
 ### Project state
 
