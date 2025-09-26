@@ -37,6 +37,9 @@ Install SFML with:
 sudo apt install libsfml-dev
 ```
 
+### NixOS
+You can add the dev shell found in [my NixOS configuration](https://github.com/julianbuerge/.mynixos) in `.mynixos/devshells/spacemonkeys-shell.nix` to your flake outputs. Then clonethis repository and enter the shell.
+
 ## Build instructions
 
 To build the project do
