@@ -43,7 +43,7 @@ sudo apt install libsfml-dev
 ```
 
 ### NixOS
-You can add the dev shell found in [my NixOS configuration](https://github.com/julianbuerge/.mynixos) in `.mynixos/devshells/spacemonkeys-shell.nix` to your `devShell.system` flake outputs. Then clone this repository and enter the shell.
+You can add the dev shell found in [my NixOS configuration](https://github.com/julianbuerge/.mynixos) in `.mynixos/devshells/spacemonkeys-shell.nix` to your `devShells.system` flake outputs. Then clone this repository and enter the shell.
 
 ## Build instructions
 
