@@ -77,6 +77,6 @@ the `stretch` to fit within your screen resolution.
 
 This code is the intellectual property of Julian Bürge. All rights reserved.
 
-You may view and run the code for personal, professional or academic interest, but you may not copy, modify, distribute, or use it in any form without prior written permission from the author. Neither are you allowed to copy the game idea.
+You may view and run the code for personal, professional or academic interest, but you may not copy, modify, distribute, or use it in any form without prior written permission from the author. Neither are you allowed to directly copy the game idea.
 
 For inquiries, please contact julian.buerge@alumni.ethz.ch.
